@@ -22,8 +22,8 @@ const ContactUs = () => {
                         <h3 className="text-xl font-bold mb-4">Call Us</h3>
                         <p className="text-gray-600 mb-2">Speak to our support team directly.</p>
                         <div className="font-semibold text-lg text-gray-800">
-                            <p>+91 77956 87594</p>
-                            <p>+91 90195 95595</p>
+                            <p>+91 93795 15623</p>
+                            <p>+91 97317 83958</p>
                         </div>
                     </div>
 
@@ -35,7 +35,7 @@ const ContactUs = () => {
                         <h3 className="text-xl font-bold mb-4">Email Us</h3>
                         <p className="text-gray-600 mb-2">Write to us for detailed queries.</p>
                         <a href="mailto:support@rentalbuddy.com" className="font-semibold text-lg text-blue-600 hover:underline">
-                            support@rentalbuddy.com
+                            2005chinmayvarma@gmail.com
                         </a>
                     </div>
 
