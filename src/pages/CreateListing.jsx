@@ -102,7 +102,7 @@ const CreateListing = () => {
                                         if (errors.location) setErrors({ ...errors, location: null });
                                     }}
                                 >
-                                    <option value="">Select a City</option>
+                                    <option value="">Select a Area</option>
                                     {locations.map(loc => (
                                         <option key={loc} value={loc}>{loc}</option>
                                     ))}
