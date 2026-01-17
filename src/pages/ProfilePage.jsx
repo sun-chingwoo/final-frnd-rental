@@ -64,7 +64,7 @@ const ProfilePage = () => {
                         <h2 className="text-2xl font-bold mt-4 text-gray-900">{user.fullName}</h2>
                         <div className="mt-1 text-center">
                             <span className="text-gray-500 text-sm">Account Status : </span>
-                            <span className="text-gray-700 font-semibold text-sm">Awaiting Document Upload</span>
+                            <span className="text-gray-700 font-semibold text-sm">Awaiting Document Uploa</span>
                         </div>
                     </div>
 
