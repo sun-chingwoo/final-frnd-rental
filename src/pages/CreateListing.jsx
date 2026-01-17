@@ -179,7 +179,7 @@ const CreateListing = () => {
                 </div>
             </div>
 
-            {/* No footer as requested for focus */}
+            
         </div>
     );
 };
